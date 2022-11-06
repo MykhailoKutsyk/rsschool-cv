@@ -5,7 +5,7 @@
 
 - **Location:** Ukraine, Uzhhorod
 - **Phone:** +3809545553xx
-- **Email:** <mykhailo.kutsyk@gmail.com>
+- **Email:** [mykhailo.kutsyk@gmail.com](mailto:mykhailo.kutsyk@gmail.com)
 - **LinkedIn:** [Mykhailo Kutsyk](https://linkedin.com/in/mykhailo-kutsyk/)
 - **GitHub:** [Mykhailo Kutsyk](https://github.com/MykhailoKutsyk/)
 
