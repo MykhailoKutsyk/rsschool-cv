@@ -3,8 +3,6 @@
 
 ## Contacts
 
----
-
 - **Location:** Ukraine, Uzhhorod
 - **Phone:** +3809545553xx
 - **Email:** mykhailo.kutsyk@gmail.com
@@ -12,8 +10,6 @@
 - **GitHub:** [Mykhailo Kutsyk](https://github.com/MykhailoKutsyk/)
 
 ## About me
-
----
 
 I am certified Lean consultant in manufacturing company. Currently facilitated more than 120 Kaizen projects. Strong analytical skills and critical thinking. Curiosity and willingness to continuously learn will help me start my carrier in IT.
 
